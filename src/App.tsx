@@ -31,6 +31,7 @@ function App() {
   }
 
   // when does this get run?
+  // inspect your browser console as you're updating state.
   console.log("App is rendering with name state value as:", name);
 
   return (

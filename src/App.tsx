@@ -5,7 +5,7 @@
  *  3. The setState function is, roughly, 'trigger rerender with this new state value'
  *
  * Task: refactor to use a common handling approach for the three buttons
- *  (instead of the three slightly different approaches we hav enow)
+ *  (instead of the three slightly different approaches we have now)
  */
 
 import { useState } from "react";
